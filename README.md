@@ -18,3 +18,16 @@ https://youtu.be/94w6hPk7nkM?si=WA5DFcvpTjIzq23E
 12. DROP
 13. DROP_DUPLICATES
 14. DISTINCT
+
+#### --- Day 2 --- 
+1. Union and Union by name
+2. String Functions - initcap(), lower(), upper()
+3. Date Functions - current_date(), date_add(), date_sub(), datediff(), date_format()
+4. Handling Nulls
+5. Split and indexing
+6. Explode
+7. Array_contains
+8. GroupBy
+9. Collect_List
+10. Pivot
+11. When-Otherwise
