@@ -30,11 +30,11 @@ https://youtu.be/94w6hPk7nkM?si=WA5DFcvpTjIzq23E
 8. GroupBy
 9. Collect_List
 10. Pivot
+11. When-Otherwise
 
 #### --- Day 3 --- 
 1. Joins - Inner, Left, Rift, Anti
 2. Windows Functions
-3. User Defined Functions
+3. User-Defined Functions
 4. Data Writing
 5. Spark SQL
-11. When-Otherwise
